@@ -1,0 +1,46 @@
+
+ h1{
+    background-color: rgb(141, 85, 104);
+    text-align: center;
+    color: lightgray;}
+
+  #unique{
+      background-color: rgb(202, 199, 200);
+      text-align: center;
+  }
+
+  .same{
+    background-color: rgb(202, 199, 200);
+    text-align: center;
+  }
+
+
+ul li {
+    text-decoration: none ;
+    display:inline-block;
+   
+}
+
+
+.aboutClass {
+    width: 50%;
+    float: left;
+    font-weight: 400;
+    font-size: 1.5rem;
+    margin-top: 92px;
+    
+}
+
+.photo
+{
+width: 50%;
+}
+
+footer {
+
+    background-color: rgb(141, 85, 104);
+    text-align: center;
+    color: lightgray;
+   height: 20%;
+   font-size: 29px;
+}
